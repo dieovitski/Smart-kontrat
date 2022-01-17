@@ -33,8 +33,8 @@ const About = () => {
                       </svg>
                     </span>
                     <p className="ml-2">
-                      <code className="font-semibold text-gray-900">7,777</code>{" "}
-                      ERC-721 NFTs.
+                      <code>7,777</code>{" "}
+                        ERC-721 NFT.
                     </p>
                   </li>
                   <li className="flex items-start">

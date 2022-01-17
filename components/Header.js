@@ -62,13 +62,13 @@ const Header = () => {
             <ul className="flex items-center space-x-8">
               <li className="text-gray-200 text-semibold">
                 <Link href="#about">
-                  <a>About</a>
+                  <a>Hakkinda</a>
                 </Link>
               </li>
 
               <li className="text-gray-200 text-semibold">
                 <Link href="#gallery">
-                  <a>The Gallery</a>
+                  <a>Galeri</a>
                 </Link>
               </li>
 
@@ -90,7 +90,7 @@ const Header = () => {
                     "..." +
                     String(walletAddress).substring(38)
                   ) : (
-                    <span>Connect Wallet</span>
+                    <span>Cuzdani bagla</span>
                   )}
                 </a>
               </li>
