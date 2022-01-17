@@ -199,8 +199,7 @@ export default function MyApp() {
               <ul>
                 <li>
                   <p class="text-base leading-normal text-gray-600 mt-4 ">
-                    You can buy as many as you want with the limit of 5 per
-                    transaction.
+                  İşlem başına 5 limit ile istediğiniz kadar satın alabilirsiniz. 
                   </p>
                 </li>
               </ul>
