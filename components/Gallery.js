@@ -62,7 +62,7 @@ const Gallery = ({}) => {
     <div id="gallery" className="py-20 mt-16 bg-secondary">
       <div className="container max-w-6xl mx-auto">
         <h2 className="mb-10 text-5xl font-bold text-center text-white">
-          The Gallery
+          Galeri
         </h2>
         <div className="embla">
           <div className="embla__viewport" ref={viewportRef}>
