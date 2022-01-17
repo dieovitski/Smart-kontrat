@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+    // SPDX-License-Identifier: MIT
     import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
     import "@openzeppelin/contracts/access/Ownable.sol";
     import "@openzeppelin/contracts/utils/math/SafeMath.sol";
@@ -187,7 +187,7 @@
     
         if (isRevealed == false) {
           return
-            "ipfs://QmbMY6kfTb4mMJiSLS6yptLiYsfngMHhLDwNQcua4fCvQT/hidden.json";
+            "ipfs://QmYGAp3Gz1m5UmFhV4PVRRPYE3HL1AmCwEKFPxng498vfb/hidden.json";
         }
     
         return
