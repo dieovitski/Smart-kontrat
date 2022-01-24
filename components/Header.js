@@ -30,7 +30,7 @@ const Header = () => {
           setStatus("");
         } else {
           setWalletAddress("");
-          setStatus("🦊 Connect to Metamask using Connect Wallet button.");
+          setStatus("🦊 Metamask'a baglan.");
         }
       });
     }
@@ -85,7 +85,7 @@ const Header = () => {
                   onClick={connectWalletPressed}
                 >
                   {walletAddress.length > 0 ? (
-                    "Connected: " +
+                    "Baglandi: " +
                     String(walletAddress).substring(0, 6) +
                     "..." +
                     String(walletAddress).substring(38)
